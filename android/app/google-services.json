@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65328278827",
+    "project_id": "capston-d8591",
+    "storage_bucket": "capston-d8591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65328278827:android:6174f7b65c479cf843e96e",
+        "android_client_info": {
+          "package_name": "com.example.kelasc_yolo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8OGReIzVQfudYbjJOoYHAcr3_cmz7Emk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
